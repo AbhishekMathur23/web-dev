@@ -5,5 +5,5 @@ Steps to run
  1.Download the code extract files.
 2.Open the folder in vscode 
 3. Install html css extensions 
-      or....
+      or.... you can 
       Click directly on index.html file
